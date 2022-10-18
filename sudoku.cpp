@@ -3,7 +3,7 @@ using namespace std;
 int possible(int x,int y,int n,int a[][9])
 {
   int flag=0;
-  for(int i=0;i<9;i++)
+  for(int i=0;i<9;i=i+1)
     if(a[x][i]==n)
       return 1;
   for(int i=0;i<9;i++)
