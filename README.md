@@ -1,2 +1,2 @@
 # sudoku
-cpp program to solve a sudoku
+cpp program to solve a sudoku 
