@@ -1,4 +1,5 @@
 #include<iostream>
+#include<stdlib.h>
 using namespace std;
 int possible(int x,int y,int n,int a[][9])
 {
